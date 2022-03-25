@@ -1,0 +1,72 @@
+@media (max-width: 750px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+    } 
+
+    .cabecalho {
+        padding: 40px 0 20px;
+    }
+
+    .cabecalho-logo {
+        height: 60px;
+    }
+
+    .cabecalho-nevegacao-item {
+        font-size: 12px;
+    }
+
+    .conteudo {
+        padding: 0 35px;        
+    }
+
+    .conteudo-princial {
+        margin-top: 20px;
+        flex-direction: column;
+    }
+    
+    .conteudo-principal-titulo {
+        text-align: center;
+        font-weight: 300;
+        font-size: 50px;    
+    }
+
+    .conteudo-principal-subtitulo {
+        text-align: center;
+        font-weight: 200;
+        font-size: 20px;   
+    }
+
+    .conteudo-principal-botao {
+        align-self: center;
+        font-size: 18px;
+        width: 150px;
+        height: 40px;
+    }
+
+    .conteudo-imagem {
+        height: 300px;
+    }
+
+    .conteudo-secundario-titulo {
+        padding-top: 35px;
+        font-weight: 300;
+        font-size: 20px;
+    }
+
+    .conteudo-secundario-parafrafo {
+        text-align: center;
+        font-weight: 200;
+        font-size: 14px;
+    }
+
+    .rodape {
+        padding: 20px;
+    }
+
+    .rodape-imagem {
+        height: 30px;
+    }    
+}
