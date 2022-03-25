@@ -6,7 +6,7 @@
 
 <div align="center">
 
- [👀 Visualize o projeto clicando aqui-em contrução 🚧]()
+ [👀 Visualize o projeto clicando aqui](https://revertemayene.github.io/landingpage-ballebot/)
 
 </div> 
 
