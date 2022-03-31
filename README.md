@@ -15,18 +15,24 @@
 ## 🖥️ Prévia para Desktop
 
 <p align="left">✨ Projeto desktop desenvolvido utilizando o design do Figma.</p>
+<br>
+<h1 align="center">
 
-  <img align="center" src="github/gifs/ballebot-desktop.gif" width="900">
+  <img src="github/gifs/ballebot-desktop.gif" width="900">
 
 <br><br>
+</h1>
 
 ## 📱 Prévia para Mobile
 
 <p align="left">✨ Projeto mobile desenvolvido por minha própria vontade, pois não foi disponibilizado o design responsivo para mobile.</p>
+<br>
+<h1 align="center">
 
   <img align="center" src="github/gifs/ballebot-mobile.gif" width="400">
 
 <br><br>
+</h1>
 
 ## 🔥 Meus desafios
 
