@@ -29,7 +29,7 @@
 <br>
 <h1 align="center">
 
-  <img align="center" src="github/gifs/mobile.gif" width="400">
+  <img align="center" src="github/gifs/mobile.gif" width="250">
 
 <br><br>
 </h1>
