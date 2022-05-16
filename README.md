@@ -18,7 +18,7 @@
 <br>
 <h1 align="center">
 
-  <img src="github/gifs/ballebot-desktop.gif" width="900">
+  <img src="github/gifs/desktop.gif" width="900">
 
 <br><br>
 </h1>
@@ -29,7 +29,7 @@
 <br>
 <h1 align="center">
 
-  <img align="center" src="github/gifs/ballebot-mobile.gif" width="400">
+  <img align="center" src="github/gifs/mobile.gif" width="400">
 
 <br><br>
 </h1>
