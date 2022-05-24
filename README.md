@@ -20,7 +20,7 @@
 
   <img src="github/gifs/desktop.gif" width="900">
 
-<br><br>
+<br>
 </h1>
 
 ## 📱 Prévia para Mobile
@@ -31,7 +31,7 @@
 
   <img align="center" src="github/gifs/mobile.gif" width="250">
 
-<br><br>
+<br>
 </h1>
 
 ## 🔥 Meus desafios
